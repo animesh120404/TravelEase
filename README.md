@@ -1,1 +1,1 @@
-Implemented and practiced DevOps practices.
+Implemented DevOps Practices.
